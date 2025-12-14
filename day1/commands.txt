@@ -1,0 +1,7 @@
+pwd - print current directory
+la - list files
+la -a - list hidden files
+cd - change directory
+mkdir - create directory
+touch - create file
+

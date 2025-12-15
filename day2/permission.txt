@@ -1,0 +1,16 @@
+chmod 755 = rwxr-xr-x
+chmod 644 = rw-r--r--
+ls -l shows permissions
+File Permissions in Linux:
+
+r = read
+w = write
+x = execute
+
+Permission groups:
+- owner
+- group
+- others
+
+Example:
+-rw-r--r--

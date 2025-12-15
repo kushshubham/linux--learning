@@ -1,0 +1,7 @@
+Linux Day 2: Files, Permissions, and Ownership
+
+Topics:
+- File permissions
+- chmod command
+- chown command
+- Executable files
